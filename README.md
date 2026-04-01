@@ -47,4 +47,3 @@ This project demonstrates how to automate **data extraction from websites** usin
 
 ---
 
-## 📂 Project Structure
